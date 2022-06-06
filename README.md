@@ -15,3 +15,11 @@
 ## Blockchain
 + https://github.com/paritytech/substrate
 + https://github.com/octopus-network/
+
+## Smart Contract Audit
++ https://github.com/byterocket/c4-common-issues
++ https://github.com/cryptofinlabs/audit-checklist
++ https://github.com/miguelmota/solidity-audit-checklist
++ https://github.com/vietlq/smart-contract-audit
++ https://github.com/TechRate/Smart-Contract-Audits
++ https://github.com/chainsulting/Smart-Contract-Security-Audits
